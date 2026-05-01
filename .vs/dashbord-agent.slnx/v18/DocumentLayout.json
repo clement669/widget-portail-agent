@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget-portail-agent\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget-portail-agent\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget-portail-agent\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget-portail-agent\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\hooks\\useGrist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget-portail-agent\\src\\hooks\\useGrist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget-portail-agent\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\.gitignore",
+              "RelativeDocumentMoniker": "widget-portail-agent\\.gitignore",
+              "ToolTip": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\.gitignore",
+              "RelativeToolTip": "widget-portail-agent\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-01T08:22:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "useGrist.js",
+              "DocumentMoniker": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\hooks\\useGrist.js",
+              "RelativeDocumentMoniker": "widget-portail-agent\\src\\hooks\\useGrist.js",
+              "ToolTip": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\hooks\\useGrist.js",
+              "RelativeToolTip": "widget-portail-agent\\src\\hooks\\useGrist.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-01T08:14:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\index.css",
+              "RelativeDocumentMoniker": "widget-portail-agent\\src\\index.css",
+              "ToolTip": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\index.css",
+              "RelativeToolTip": "widget-portail-agent\\src\\index.css",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-13T21:28:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\App.jsx",
+              "RelativeDocumentMoniker": "widget-portail-agent\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\src\\App.jsx",
+              "RelativeToolTip": "widget-portail-agent\\src\\App.jsx",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-13T21:27:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\vite.config.js",
+              "RelativeDocumentMoniker": "widget-portail-agent\\vite.config.js",
+              "ToolTip": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\vite.config.js",
+              "RelativeToolTip": "widget-portail-agent\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-13T21:27:27.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\package.json",
+              "RelativeDocumentMoniker": "widget-portail-agent\\package.json",
+              "ToolTip": "C:\\Users\\cygne\\source\\repos\\reactproject1\\dashbord-agent\\widget-portail-agent\\package.json",
+              "RelativeToolTip": "widget-portail-agent\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T21:27:00.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
