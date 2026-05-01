@@ -1,0 +1,70 @@
+/* --- TYPOGRAPHIE OFFICIELLE DE L'ETAT (MARIANNE) --- */
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://cdn.dsfr.gouv.fr/assets/fonts/Marianne-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://cdn.dsfr.gouv.fr/assets/fonts/Marianne-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://cdn.dsfr.gouv.fr/assets/fonts/Marianne-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* --- TOKENS DSFR (Variables CSS) --- */
+:root {
+    /* Couleurs de fond */
+    --background-default-grey: #ffffff;
+    --background-alt-grey: #f6f6f6;
+    --background-contrast-grey: #eeeeee;
+    /* Couleurs de texte */
+    --text-default-grey: #161616;
+    --text-title-grey: #161616;
+    --text-mention-grey: #666666;
+    /* Couleurs d'action (Marianne Blue) */
+    --background-action-high-blue-france: #000091;
+    --background-action-high-blue-france-hover: #1212ff;
+    --text-action-high-blue-france: #000091;
+    /* Couleurs de statut */
+    --background-contrast-success: #b8fec9;
+    --text-default-success: #18753c;
+    --background-contrast-error: #ffe9e9;
+    --text-default-error: #ce0500;
+    --background-contrast-warning: #ffe9e6;
+    --text-default-warning: #b34000;
+    /* Bordures */
+    --border-default-grey: #e5e5e5;
+    --border-action-high-blue-france: #000091;
+    /* Espacements et Radius */
+    --radius-dsfr: 4px; /* Le DSFR utilise peu d'arrondis, on reste sobre */
+}
+
+/* --- RESET & STRUCTURE GLOBALE --- */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Marianne', Arial, sans-serif;
+    background-color: var(--background-alt-grey);
+    color: var(--text-default-grey);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+    font-family: 'Marianne', Arial, sans-serif;
+}
